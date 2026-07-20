@@ -16,9 +16,8 @@
 
 ### About me
 
-I'm a full-stack developer with 6+ years of experience building responsive interfaces and dependable back-end systems. I care about thoughtful user experiences, maintainable code, and shipping products that solve real problems.
+I'm a full-stack developer with 7+ years of experience building responsive interfaces and dependable back-end systems. I care about thoughtful user experiences, maintainable code, and shipping products that solve real problems.
 
-- 📍 Based in Mississauga, Ontario
 - 🧩 Strongest across React, TypeScript, JavaScript, Node.js, and modern web tooling
 - 🛠️ Building reusable UI systems and end-to-end product experiences
 - 🌱 Currently deepening my work with Next.js, Astro, Prisma, and accessible design systems
