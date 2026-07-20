@@ -1,56 +1,156 @@
-<h1 align="center">Hi, I'm Maninderjit Johar 👋</h1>
+<img width="100%" src="./assets/profile-banner.png" alt="Abstract full-stack architecture with connected interfaces, data flows, and services" />
+
+<h1 align="center">Maninderjit Johar</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer building polished, reliable web products</strong>
+  <strong>Senior Full-Stack Developer · Product Engineer · UI Systems Builder</strong><br />
+  I turn complex product requirements into fast, scalable, and intuitive web experiences.
 </p>
 
 <p align="center">
-  <a href="https://portfolio-maninderjit-johars-projects.vercel.app">Portfolio</a>
-  ·
-  <a href="https://ca.linkedin.com/in/manijohar">LinkedIn</a>
-  ·
-  <a href="https://github.com/maninderjit-johar?tab=repositories">Projects</a>
+  <a href="https://portfolio-maninderjit-johars-projects.vercel.app"><img src="https://img.shields.io/badge/Explore_my_work-Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/manijohar/"><img src="https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:maninderjit.johar@outlook.com"><img src="https://img.shields.io/badge/Start_a_conversation-Email-2563EB?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maninderjit-johar&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/maninderjit-johar?style=flat-square&color=7C3AED&label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/EXPERIENCE-7%2B_YEARS-0EA5E9?style=flat-square" alt="7+ years of experience" />
+  <img src="https://img.shields.io/badge/GITHUB-890%2B_CONTRIBUTIONS-22C55E?style=flat-square&logo=github" alt="890+ GitHub contributions" />
 </p>
 
 ---
 
-### About me
+## Impact, not just output
 
-I'm a full-stack developer with 7+ years of experience building responsive interfaces and dependable back-end systems. I care about thoughtful user experiences, maintainable code, and shipping products that solve real problems.
+<table>
+  <tr>
+    <td align="center"><strong>↑ 30%</strong><br /><sub>customer satisfaction</sub></td>
+    <td align="center"><strong>↓ 25%</strong><br /><sub>scheduling errors</sub></td>
+    <td align="center"><strong>↑ 23%</strong><br /><sub>sales in two months</sub></td>
+    <td align="center"><strong>↑ 20%</strong><br /><sub>feature rollout speed</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>97%</strong><br /><sub>object-detection accuracy</sub></td>
+    <td align="center"><strong>↑ 15%</strong><br /><sub>team productivity</sub></td>
+    <td align="center"><strong>8 years</strong><br /><sub>building on GitHub</sub></td>
+    <td align="center"><strong>B.Eng.</strong><br /><sub>engineering foundation</sub></td>
+  </tr>
+</table>
 
-- 🧩 Strongest across React, TypeScript, JavaScript, Node.js, and modern web tooling
-- 🛠️ Building reusable UI systems and end-to-end product experiences
-- 🌱 Currently deepening my work with Next.js, Astro, Prisma, and accessible design systems
-- 💬 Happy to connect about full-stack and front-end engineering opportunities
+I bring an engineering mindset to the entire product surface—from accessible React interfaces and reusable component systems to APIs, databases, cloud services, and deployment. My best work happens where product thinking, technical quality, and measurable business outcomes meet.
 
-### Selected work
+## Experience highlights
 
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| [CineQuiz](https://github.com/maninderjit-johar/cinequiz) | An interactive movie quiz with a component-driven interface | TypeScript, React, Vite, Tailwind CSS |
-| [EssentialUI](https://github.com/maninderjit-johar/essentialui) | A lightweight, responsive, themeable sidebar component for React apps | React, JavaScript, CSS |
-| [AspireArc](https://github.com/maninderjit-johar/aspirearc) | A full-stack fitness logging application with persisted data | Next.js, Prisma, TypeScript, JavaScript |
-| [Portfolio](https://github.com/maninderjit-johar/portfolio) | A fast personal portfolio showcasing modern front-end delivery | Astro, Tailwind CSS, JavaScript |
+### Full-Stack Developer · MarketBox
 
-### Core toolkit
+- Redesigned the booking flow and consolidated scheduling experiences, contributing to **30% higher customer satisfaction**, **25% fewer scheduling errors**, and a **23% sales increase within two months**.
+- Mentored junior developers in clean-code practices, helping improve team productivity by **15%**.
+- Worked across the product stack to ship customer-facing workflows for a fast-moving SaaS environment.
 
+### Frontend Developer · Aerialytic
+
+- Improved feature rollout speed by **20%** and helped increase object-detection accuracy to **97%**.
+- Built scalable data-visualization experiences for solar-energy applications.
+- Partnered across engineering disciplines to maintain reliable experiences across devices.
+
+## Featured engineering work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 <a href="https://github.com/maninderjit-johar/cinequiz">CineQuiz</a></h3>
+      <p>An interactive movie-guessing experience with asynchronous data fetching, global state, player onboarding, and an optional on-screen keyboard.</p>
+      <p><strong>Engineering signals:</strong> typed Redux hooks, async state, reusable Radix primitives, responsive Tailwind UI, strict linting.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Redux Toolkit</code> <code>Radix UI</code> <code>Vite</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 <a href="https://github.com/maninderjit-johar/essentialui">EssentialUI</a></h3>
+      <p>An MIT-licensed React component library focused on a lightweight, responsive, themeable sidebar.</p>
+      <p><strong>Engineering signals:</strong> package-ready ESM/UMD builds, minimal runtime dependencies, theme context, reusable public exports.</p>
+      <p><code>React</code> <code>JavaScript</code> <code>Vite Library Mode</code> <code>CSS</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏋️ <a href="https://github.com/maninderjit-johar/aspirearc">AspireArc</a></h3>
+      <p>A full-stack fitness logger designed around users and their workout history.</p>
+      <p><strong>Engineering signals:</strong> relational data modeling, PostgreSQL, Prisma migrations, Docker-based local infrastructure, modern Next.js.</p>
+      <p><code>Next.js 14</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Docker</code> <code>Tailwind CSS</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/maninderjit-johar/portfolio">Developer Portfolio</a></h3>
+      <p>A responsive professional portfolio built for speed, clarity, and accessible storytelling.</p>
+      <p><strong>Engineering signals:</strong> component-driven Astro architecture, responsive navigation, optimized assets, Vercel deployment.</p>
+      <p><code>Astro</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>Vercel</code></p>
+    </td>
+  </tr>
+</table>
+
+## Technical toolkit
+
+<details open>
+<summary><strong>Frontend & product interfaces</strong></summary>
+<br />
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,materialui,redux,astro,nextjs&perline=10" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Material UI, Redux, Astro, and Next.js" />
+</p>
+</details>
+
+<details open>
+<summary><strong>Backend, data & cloud</strong></summary>
+<br />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,graphql,postgres,mongodb,mysql,prisma,aws,docker&perline=10" alt="Node.js, Python, Django, GraphQL, PostgreSQL, MongoDB, MySQL, Prisma, AWS, and Docker" />
+</p>
+</details>
+
+<details>
+<summary><strong>Engineering practices</strong></summary>
+<br />
+
+- Component architecture and reusable design systems
+- Responsive, accessible, and cross-device interfaces
+- REST and GraphQL integration
+- Relational and document data modeling
+- Cloud-native and serverless application development
+- Code review, mentorship, debugging, and performance optimization
+- Git-based collaboration and iterative product delivery
+
+</details>
+
+## GitHub snapshot
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maninderjit-johar&theme=github_dark" alt="Repositories by language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maninderjit-johar&theme=github_dark" alt="Most committed languages" />
 </p>
 
-### What I bring to a team
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=maninderjit-johar&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</p>
 
-- **Product-minded engineering** — translating requirements into clear, usable experiences
-- **Full-stack perspective** — working across interfaces, application logic, APIs, and data
-- **Reusable foundations** — creating components and patterns that make future work faster
-- **Quality-focused delivery** — prioritizing responsive design, accessibility, and maintainable code
+<p align="center">
+  <sub>Public-repository statistics update automatically. Professional work in private repositories is not fully represented here.</sub>
+</p>
 
-Explore my work in the [selected projects above](#selected-work) or browse [all repositories](https://github.com/maninderjit-johar?tab=repositories).
+## Beyond the code
+
+- 🎓 Bachelor of Engineering
+- 🧠 I enjoy turning ambiguous requirements into simple product experiences
+- 🤝 I value thoughtful collaboration, pragmatic architecture, and helping teammates grow
+- 🏏 Away from the keyboard: cricket, fitness, and hiking
+
+---
+
+<h3 align="center">Have a product challenge worth solving?</h3>
+
+<p align="center">
+  I'm open to conversations about senior full-stack and frontend engineering opportunities.<br /><br />
+  <a href="mailto:maninderjit.johar@outlook.com"><strong>Email me</strong></a>
+  ·
+  <a href="https://www.linkedin.com/in/manijohar/"><strong>Connect on LinkedIn</strong></a>
+  ·
+  <a href="https://portfolio-maninderjit-johars-projects.vercel.app"><strong>View my portfolio</strong></a>
+</p>
