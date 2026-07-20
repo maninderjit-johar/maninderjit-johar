@@ -68,6 +68,7 @@ I bring an engineering mindset to the entire product surface: accessible React i
 - Modularized CRM capabilities into embeddable partner-ready experiences using secure sessions, configuration-driven flows, and reusable integration patterns.
 - Implemented REST and GraphQL workflows across **15+ backend services** for solar design, production modeling, savings calculations, lead management, and proposal generation.
 - Strengthened product reliability with **100+ Python unit/integration tests**, golden-test scenarios, Jest, and Playwright coverage across API, UI, and calculation-heavy workflows.
+- Containerized and deployed applications and services with Docker, Kubernetes, GitHub Actions, and GitOps workflows to support reliable multi-environment releases.
 
 ### Full-Stack Developer · MarketBox
 
