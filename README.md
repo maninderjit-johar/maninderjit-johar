@@ -14,10 +14,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maninderjit-johar&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/maninderjit-johar?style=flat-square&color=7C3AED&label=FOLLOWERS" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/EXPERIENCE-7%2B_YEARS-0EA5E9?style=flat-square" alt="7+ years of experience" />
-  <img src="https://img.shields.io/badge/GITHUB-890%2B_CONTRIBUTIONS-22C55E?style=flat-square&logo=github" alt="890+ GitHub contributions" />
+  <img src="https://img.shields.io/badge/ROLE-Senior_Full--Stack_Developer-2563EB?style=flat-square" alt="Senior full-stack developer" />
   <img src="https://img.shields.io/badge/FOCUS-React_%7C_TypeScript_%7C_Full--Stack-111827?style=flat-square" alt="React, TypeScript, and full-stack focus" />
 </p>
 
@@ -35,7 +33,7 @@
   <tr>
     <td align="center"><strong>97%</strong><br /><sub>object-detection accuracy</sub></td>
     <td align="center"><strong>↑ 15%</strong><br /><sub>team productivity</sub></td>
-    <td align="center"><strong>8 years</strong><br /><sub>building on GitHub</sub></td>
+    <td align="center"><strong>7+ years</strong><br /><sub>professional experience</sub></td>
     <td align="center"><strong>B.Eng.</strong><br /><sub>engineering foundation</sub></td>
   </tr>
 </table>
@@ -78,19 +76,19 @@ I bring an engineering mindset to the entire product surface: accessible React i
 ## Featured engineering work
 
 <p>
-  These repositories are being upgraded into polished portfolio case studies with live demos, stronger READMEs, screenshots, and production-style deployment notes. The goal is simple: make each pinned project tell a clear engineering story in under 30 seconds.
+  Selected public work that shows product thinking, frontend craft, full-stack implementation, and reusable system design.
 </p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/maninderjit-johar/cinequiz">CineQuiz</a></h3>
+      <h3><a href="https://github.com/maninderjit-johar/cinequiz">CineQuiz</a></h3>
       <p>An interactive movie-guessing experience with asynchronous data fetching, global state, player onboarding, and an optional on-screen keyboard.</p>
       <p><strong>Engineering signals:</strong> typed Redux hooks, async state, reusable Radix primitives, responsive Tailwind UI, strict linting.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Redux Toolkit</code> <code>Radix UI</code> <code>Vite</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧩 <a href="https://github.com/maninderjit-johar/essentialui">EssentialUI</a></h3>
+      <h3><a href="https://github.com/maninderjit-johar/essentialui">EssentialUI</a></h3>
       <p>An MIT-licensed React component library focused on a lightweight, responsive, themeable sidebar.</p>
       <p><strong>Engineering signals:</strong> package-ready ESM/UMD builds, minimal runtime dependencies, theme context, reusable public exports.</p>
       <p><code>React</code> <code>JavaScript</code> <code>Vite Library Mode</code> <code>CSS</code></p>
@@ -98,28 +96,19 @@ I bring an engineering mindset to the entire product surface: accessible React i
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏋️ <a href="https://github.com/maninderjit-johar/aspirearc">AspireArc</a></h3>
+      <h3><a href="https://github.com/maninderjit-johar/aspirearc">AspireArc</a></h3>
       <p>A full-stack fitness logger designed around users and their workout history.</p>
       <p><strong>Engineering signals:</strong> relational data modeling, PostgreSQL, Prisma migrations, Docker-based local infrastructure, modern Next.js.</p>
       <p><code>Next.js 14</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Docker</code> <code>Tailwind CSS</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/maninderjit-johar/portfolio">Developer Portfolio</a></h3>
+      <h3><a href="https://github.com/maninderjit-johar/portfolio">Developer Portfolio</a></h3>
       <p>A responsive professional portfolio built for speed, clarity, and accessible storytelling.</p>
       <p><strong>Engineering signals:</strong> component-driven Astro architecture, responsive navigation, optimized assets, Vercel deployment.</p>
       <p><code>Astro</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>Vercel</code></p>
     </td>
   </tr>
 </table>
-
-## Portfolio upgrade roadmap
-
-| Project | Recruiter signal | Next polish pass |
-| --- | --- | --- |
-| [CineQuiz](https://github.com/maninderjit-johar/cinequiz) | React + TypeScript product UI, async state, game flow | Live demo, gameplay screenshots, architecture notes |
-| [EssentialUI](https://github.com/maninderjit-johar/essentialui) | Reusable component library thinking | Documentation site, usage examples, npm-style install guide |
-| [AspireArc](https://github.com/maninderjit-johar/aspirearc) | Full-stack data modeling with Next.js, Prisma, PostgreSQL | Hosted demo, seed data, auth/user-flow walkthrough |
-| [Portfolio](https://github.com/maninderjit-johar/portfolio) | Professional presentation and frontend craft | Case-study links, project metrics, tighter recruiter flow |
 
 ## Technical toolkit
 
@@ -166,19 +155,15 @@ I bring an engineering mindset to the entire product surface: accessible React i
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=maninderjit-johar&theme=github-compact&hide_border=true&area=true&height=230&custom_title=Recent%20public%20GitHub%20activity" alt="Recent public GitHub contribution activity" />
+  <sub>Public-repository statistics update automatically.</sub>
 </p>
 
-<p align="center">
-  <sub>Public-repository statistics update automatically. Professional work in private repositories is not fully represented here, so this graph should be read as recent public activity rather than total engineering output.</sub>
-</p>
+## Engineering strengths
 
-## Beyond the code
-
-- 🎓 Bachelor of Engineering
-- 🧠 I enjoy turning ambiguous requirements into simple product experiences
-- 🤝 I value thoughtful collaboration, pragmatic architecture, and helping teammates grow
-- 🏏 Away from the keyboard: cricket, fitness, and hiking
+- Turning ambiguous requirements into simple, usable product experiences
+- Building maintainable React interfaces and reusable component systems
+- Designing APIs, data models, and deployment-ready full-stack workflows
+- Mentoring teammates through clean code, debugging, and practical architecture
 
 ---
 
