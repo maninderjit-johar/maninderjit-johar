@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/github/followers/maninderjit-johar?style=flat-square&color=7C3AED&label=FOLLOWERS" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/EXPERIENCE-7%2B_YEARS-0EA5E9?style=flat-square" alt="7+ years of experience" />
   <img src="https://img.shields.io/badge/GITHUB-890%2B_CONTRIBUTIONS-22C55E?style=flat-square&logo=github" alt="890+ GitHub contributions" />
+  <img src="https://img.shields.io/badge/FOCUS-React_%7C_TypeScript_%7C_Full--Stack-111827?style=flat-square" alt="React, TypeScript, and full-stack focus" />
 </p>
 
 ---
@@ -39,7 +40,26 @@
   </tr>
 </table>
 
-I bring an engineering mindset to the entire product surface—from accessible React interfaces and reusable component systems to APIs, databases, cloud services, and deployment. My best work happens where product thinking, technical quality, and measurable business outcomes meet.
+I bring an engineering mindset to the entire product surface: accessible React interfaces, reusable component systems, APIs, databases, cloud services, and deployment. My best work happens where product thinking, technical quality, and measurable business outcomes meet.
+
+## What I bring
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Product-minded delivery</strong><br />
+      <sub>I connect engineering choices to customer experience, operational reliability, and measurable business outcomes.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Modern frontend depth</strong><br />
+      <sub>React, TypeScript, component architecture, responsive UI, state management, accessibility, and polished user flows.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Full-stack ownership</strong><br />
+      <sub>APIs, data models, cloud services, deployments, debugging, code review, and mentoring across the delivery lifecycle.</sub>
+    </td>
+  </tr>
+</table>
 
 ## Experience highlights
 
@@ -56,6 +76,10 @@ I bring an engineering mindset to the entire product surface—from accessible R
 - Partnered across engineering disciplines to maintain reliable experiences across devices.
 
 ## Featured engineering work
+
+<p>
+  These repositories are being upgraded into polished portfolio case studies with live demos, stronger READMEs, screenshots, and production-style deployment notes. The goal is simple: make each pinned project tell a clear engineering story in under 30 seconds.
+</p>
 
 <table>
   <tr>
@@ -87,6 +111,15 @@ I bring an engineering mindset to the entire product surface—from accessible R
     </td>
   </tr>
 </table>
+
+## Portfolio upgrade roadmap
+
+| Project | Recruiter signal | Next polish pass |
+| --- | --- | --- |
+| [CineQuiz](https://github.com/maninderjit-johar/cinequiz) | React + TypeScript product UI, async state, game flow | Live demo, gameplay screenshots, architecture notes |
+| [EssentialUI](https://github.com/maninderjit-johar/essentialui) | Reusable component library thinking | Documentation site, usage examples, npm-style install guide |
+| [AspireArc](https://github.com/maninderjit-johar/aspirearc) | Full-stack data modeling with Next.js, Prisma, PostgreSQL | Hosted demo, seed data, auth/user-flow walkthrough |
+| [Portfolio](https://github.com/maninderjit-johar/portfolio) | Professional presentation and frontend craft | Case-study links, project metrics, tighter recruiter flow |
 
 ## Technical toolkit
 
@@ -128,11 +161,16 @@ I bring an engineering mindset to the entire product surface—from accessible R
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=maninderjit-johar&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maninderjit-johar&theme=github_dark" alt="GitHub contribution stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maninderjit-johar&theme=github_dark&utcOffset=-4" alt="Most productive coding time" />
 </p>
 
 <p align="center">
-  <sub>Public-repository statistics update automatically. Professional work in private repositories is not fully represented here.</sub>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=maninderjit-johar&theme=github-compact&hide_border=true&area=true&height=230&custom_title=Recent%20public%20GitHub%20activity" alt="Recent public GitHub contribution activity" />
+</p>
+
+<p align="center">
+  <sub>Public-repository statistics update automatically. Professional work in private repositories is not fully represented here, so this graph should be read as recent public activity rather than total engineering output.</sub>
 </p>
 
 ## Beyond the code
