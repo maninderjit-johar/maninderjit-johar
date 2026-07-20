@@ -67,6 +67,14 @@ I bring an engineering mindset to the entire product surface: accessible React i
 - Mentored junior developers in clean-code practices, helping improve team productivity by **15%**.
 - Worked across the product stack to ship customer-facing workflows for a fast-moving SaaS environment.
 
+### Full-Stack Developer · Aerialytic
+
+- Rejoined Aerialytic after a previous frontend role and expanded into full-stack product engineering, contributing across a **100+ project solar SaaS ecosystem**.
+- Delivered **10+ Next.js and React applications** for lead capture, customer workflows, proposals, admin operations, and partner-facing experiences.
+- Modularized CRM capabilities into embeddable partner-ready experiences using secure sessions, configuration-driven flows, and reusable integration patterns.
+- Implemented REST and GraphQL workflows across **15+ backend services** for solar design, production modeling, savings calculations, lead management, and proposal generation.
+- Strengthened product reliability with **100+ Python unit/integration tests**, golden-test scenarios, Jest, and Playwright coverage across API, UI, and calculation-heavy workflows.
+
 ### Frontend Developer · Aerialytic
 
 - Improved feature rollout speed by **20%** and helped increase object-detection accuracy to **97%**.
