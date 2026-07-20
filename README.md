@@ -61,12 +61,6 @@ I bring an engineering mindset to the entire product surface: accessible React i
 
 ## Experience highlights
 
-### Full-Stack Developer · MarketBox
-
-- Redesigned the booking flow and consolidated scheduling experiences, contributing to **30% higher customer satisfaction**, **25% fewer scheduling errors**, and a **23% sales increase within two months**.
-- Mentored junior developers in clean-code practices, helping improve team productivity by **15%**.
-- Worked across the product stack to ship customer-facing workflows for a fast-moving SaaS environment.
-
 ### Full-Stack Developer · Aerialytic
 
 - Rejoined Aerialytic after a previous frontend role and expanded into full-stack product engineering, contributing across a **100+ project solar SaaS ecosystem**.
@@ -74,6 +68,12 @@ I bring an engineering mindset to the entire product surface: accessible React i
 - Modularized CRM capabilities into embeddable partner-ready experiences using secure sessions, configuration-driven flows, and reusable integration patterns.
 - Implemented REST and GraphQL workflows across **15+ backend services** for solar design, production modeling, savings calculations, lead management, and proposal generation.
 - Strengthened product reliability with **100+ Python unit/integration tests**, golden-test scenarios, Jest, and Playwright coverage across API, UI, and calculation-heavy workflows.
+
+### Full-Stack Developer · MarketBox
+
+- Redesigned the booking flow and consolidated scheduling experiences, contributing to **30% higher customer satisfaction**, **25% fewer scheduling errors**, and a **23% sales increase within two months**.
+- Mentored junior developers in clean-code practices, helping improve team productivity by **15%**.
+- Worked across the product stack to ship customer-facing workflows for a fast-moving SaaS environment.
 
 ### Frontend Developer · Aerialytic
 
