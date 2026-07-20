@@ -3,7 +3,7 @@
 <h1 align="center">Maninderjit Johar</h1>
 
 <p align="center">
-  <strong>Senior Full-Stack Developer · Product Engineer · UI Systems Builder</strong><br />
+  <strong>Full-Stack Developer · Product Engineer · UI Systems Builder</strong><br />
   I turn complex product requirements into fast, scalable, and intuitive web experiences.
 </p>
 
@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/EXPERIENCE-7%2B_YEARS-0EA5E9?style=flat-square" alt="7+ years of experience" />
-  <img src="https://img.shields.io/badge/ROLE-Senior_Full--Stack_Developer-2563EB?style=flat-square" alt="Senior full-stack developer" />
+  <img src="https://img.shields.io/badge/ROLE-Full--Stack_Developer-2563EB?style=flat-square" alt="Full-stack developer" />
   <img src="https://img.shields.io/badge/FOCUS-React_%7C_TypeScript_%7C_Full--Stack-111827?style=flat-square" alt="React, TypeScript, and full-stack focus" />
 </p>
 
@@ -154,7 +154,7 @@ I bring an engineering mindset to the entire product surface: accessible React i
 <h3 align="center">Have a product challenge worth solving?</h3>
 
 <p align="center">
-  I'm open to conversations about senior full-stack and frontend engineering opportunities.<br /><br />
+  I'm open to conversations about full-stack and frontend engineering opportunities.<br /><br />
   <a href="mailto:maninderjit.johar@outlook.com"><strong>Email me</strong></a>
   ·
   <a href="https://www.linkedin.com/in/manijohar/"><strong>Connect on LinkedIn</strong></a>
