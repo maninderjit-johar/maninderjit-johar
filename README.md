@@ -142,22 +142,6 @@ I bring an engineering mindset to the entire product surface: accessible React i
 
 </details>
 
-## GitHub snapshot
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maninderjit-johar&theme=github_dark" alt="Repositories by language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maninderjit-johar&theme=github_dark" alt="Most committed languages" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maninderjit-johar&theme=github_dark" alt="GitHub contribution stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maninderjit-johar&theme=github_dark&utcOffset=-4" alt="Most productive coding time" />
-</p>
-
-<p align="center">
-  <sub>Public-repository statistics update automatically.</sub>
-</p>
-
 ## Engineering strengths
 
 - Turning ambiguous requirements into simple, usable product experiences
