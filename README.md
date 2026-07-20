@@ -47,12 +47,11 @@ I'm a full-stack developer with 6+ years of experience building responsive inter
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### GitHub activity
+### What I bring to a team
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maninderjit-johar&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Maninderjit's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maninderjit-johar&layout=compact&hide_border=true&theme=transparent" alt="Maninderjit's most used public-repository languages" />
-</p>
+- **Product-minded engineering** — translating requirements into clear, usable experiences
+- **Full-stack perspective** — working across interfaces, application logic, APIs, and data
+- **Reusable foundations** — creating components and patterns that make future work faster
+- **Quality-focused delivery** — prioritizing responsive design, accessibility, and maintainable code
 
-<sub>Language statistics reflect public repositories and are not a measure of proficiency.</sub>
-
+Explore my work in the [selected projects above](#selected-work) or browse [all repositories](https://github.com/maninderjit-johar?tab=repositories).
