@@ -91,9 +91,10 @@ I bring an engineering mindset to the entire product surface: accessible React i
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/maninderjit-johar/cinequiz">CineQuiz</a></h3>
-      <p>An interactive movie-guessing experience with asynchronous data fetching, global state, player onboarding, and an optional on-screen keyboard.</p>
-      <p><strong>Engineering signals:</strong> typed Redux hooks, async state, reusable Radix primitives, responsive Tailwind UI, strict linting.</p>
+      <h3><a href="https://maninderjit-johar.github.io/cinequiz/">CineQuiz</a></h3>
+      <p>A cinematic movie-title guessing game with async title loading, Redux-powered game state, keyboard shortcuts, reveal flow, and success/failure animations.</p>
+      <p><strong>Links:</strong> <a href="https://maninderjit-johar.github.io/cinequiz/">Live demo</a> · <a href="https://github.com/maninderjit-johar/cinequiz">Source</a></p>
+      <p><strong>Engineering signals:</strong> typed Redux hooks, async state, offline-safe fallback data, reusable Radix primitives, responsive Tailwind UI, production build workflow.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Redux Toolkit</code> <code>Radix UI</code> <code>Vite</code></p>
     </td>
     <td width="50%" valign="top">
