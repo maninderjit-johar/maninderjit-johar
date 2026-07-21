@@ -91,6 +91,9 @@ I bring an engineering mindset to the entire product surface: accessible React i
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://maninderjit-johar.github.io/cinequiz/">
+        <img src="assets/projects/cinequiz.png" alt="CineQuiz game interface" width="100%" />
+      </a>
       <h3><a href="https://maninderjit-johar.github.io/cinequiz/">CineQuiz</a></h3>
       <p>A cinematic movie-title guessing game with async title loading, Redux-powered game state, keyboard shortcuts, reveal flow, and success/failure animations.</p>
       <p><strong>Links:</strong> <a href="https://maninderjit-johar.github.io/cinequiz/">Live demo</a> · <a href="https://github.com/maninderjit-johar/cinequiz">Source</a></p>
@@ -98,6 +101,9 @@ I bring an engineering mindset to the entire product surface: accessible React i
       <p><code>React</code> <code>TypeScript</code> <code>Redux Toolkit</code> <code>Radix UI</code> <code>Vite</code></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://maninderjit-johar.github.io/essentialui/">
+        <img src="assets/projects/essentialui.png" alt="EssentialUI component documentation interface" width="100%" />
+      </a>
       <h3><a href="https://maninderjit-johar.github.io/essentialui/">EssentialUI</a></h3>
       <p>A package-ready React dashboard component kit with reusable Sidebar, MetricCard, StatusBadge, EmptyState, UserCard, ProgressSteps, and ActionPanel components.</p>
       <p><strong>Links:</strong> <a href="https://maninderjit-johar.github.io/essentialui/">Live demo</a> · <a href="https://github.com/maninderjit-johar/essentialui">Source</a></p>
