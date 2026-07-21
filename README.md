@@ -98,9 +98,10 @@ I bring an engineering mindset to the entire product surface: accessible React i
       <p><code>React</code> <code>TypeScript</code> <code>Redux Toolkit</code> <code>Radix UI</code> <code>Vite</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/maninderjit-johar/essentialui">EssentialUI</a></h3>
-      <p>An MIT-licensed React component library focused on a lightweight, responsive, themeable sidebar.</p>
-      <p><strong>Engineering signals:</strong> package-ready ESM/UMD builds, minimal runtime dependencies, theme context, reusable public exports.</p>
+      <h3><a href="https://maninderjit-johar.github.io/essentialui/">EssentialUI</a></h3>
+      <p>A package-ready React dashboard component kit with reusable Sidebar, MetricCard, StatusBadge, EmptyState, UserCard, ProgressSteps, and ActionPanel components.</p>
+      <p><strong>Links:</strong> <a href="https://maninderjit-johar.github.io/essentialui/">Live demo</a> · <a href="https://github.com/maninderjit-johar/essentialui">Source</a></p>
+      <p><strong>Engineering signals:</strong> package-ready ESM/UMD builds, component docs playground, configurable props, responsive behavior, reusable public exports.</p>
       <p><code>React</code> <code>JavaScript</code> <code>Vite Library Mode</code> <code>CSS</code></p>
     </td>
   </tr>
