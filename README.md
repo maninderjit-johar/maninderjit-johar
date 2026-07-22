@@ -113,10 +113,13 @@ I bring an engineering mindset to the entire product surface: accessible React i
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/maninderjit-johar/aspirearc">AspireArc</a></h3>
-      <p>A full-stack fitness logger designed around users and their workout history.</p>
-      <p><strong>Engineering signals:</strong> relational data modeling, PostgreSQL, Prisma migrations, Docker-based local infrastructure, modern Next.js.</p>
-      <p><code>Next.js 14</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Docker</code> <code>Tailwind CSS</code></p>
+      <a href="https://github.com/maninderjit-johar/networkcanvas">
+        <img src="assets/projects/networkcanvas.png" alt="NetworkCanvas request analysis interface" width="100%" />
+      </a>
+      <h3><a href="https://github.com/maninderjit-johar/networkcanvas">NetworkCanvas</a></h3>
+      <p>A Chrome extension and demo lab that turns browser network traffic into a prioritized request analysis canvas for REST and GraphQL debugging.</p>
+      <p><strong>Engineering signals:</strong> Chrome Manifest V3, request classification, failed/slow/repeated request detection, single-request HAR copy, local unpacked extension workflow.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Chrome Extension</code> <code>REST</code> <code>GraphQL</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/maninderjit-johar/portfolio">Developer Portfolio</a></h3>
