@@ -25,6 +25,18 @@
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://ai-muscle-map.devsndesigners.chatgpt.site">
+        <img src="assets/projects/ai-muscle-map.png" alt="AI Muscle Map interactive workout anatomy interface" width="100%" />
+      </a>
+      <h3><a href="https://ai-muscle-map.devsndesigners.chatgpt.site">AI Muscle Map</a></h3>
+      <p>An interactive workout intelligence prototype with selectable male and female 3D anatomy models, exercise presets, volume-driven muscle activation, and front/back exploration.</p>
+      <p><strong>Links:</strong> <a href="https://ai-muscle-map.devsndesigners.chatgpt.site">Live demo</a> · <a href="https://github.com/maninderjit-johar/ai-muscle-map">Source</a></p>
+      <p><strong>Engineering signals:</strong> custom 3D mesh segmentation, React Three Fiber interaction, deterministic training-load analysis, responsive product UI, and deployment-ready Next.js architecture.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Three.js</code> <code>React Three Fiber</code> <code>3D Interaction</code></p>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><strong>↑ 30%</strong><br /><sub>customer satisfaction</sub></td>
     <td align="center"><strong>↓ 25%</strong><br /><sub>scheduling errors</sub></td>
     <td align="center"><strong>↑ 23%</strong><br /><sub>sales in two months</sub></td>
